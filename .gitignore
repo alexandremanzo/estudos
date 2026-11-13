@@ -1,0 +1,23 @@
+# credenciais e configuracao local - nunca versionar
+.env
+*.env
+*.json
+*.key
+*.pem
+
+# dados de entrada e saida dos estudos
+dados/
+exemplos/
+*.xlsx
+*.xls
+*.csv
+*.zip
+*.jpg
+*.png
+
+# python
+__pycache__/
+*.pyc
+venv/
+.venv/
+.ipynb_checkpoints/
