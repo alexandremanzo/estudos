@@ -23,6 +23,7 @@ platform, lives in **[plataforma-dados-pessoais](https://github.com/alexandreman
 | [analise-sentimento](analise-sentimento/) | Classificação de sentimento com Transformers | Sentiment classification with Transformers | Hugging Face transformers, pandas |
 | [automacao](automacao/) | Automação de navegador e alerta por e-mail | Browser automation and e-mail alerts | Selenium, PyAutoGUI, smtplib |
 | [sql-server](sql-server/) | Instalação, conexão e camadas medalhão | Setup, connection and medallion layers | SQL Server, pyodbc, SQLAlchemy |
+| [ciencia-dados-credito](ciencia-dados-credito/) | Scores, métricas, políticas e monitoramento de modelos de crédito | Credit scoring, model metrics, policies and monitoring | pandas, scikit-learn, SQL |
 | [ambiente-python](ambiente-python/) | Ambiente virtual e dependências | Virtual environments and dependencies | venv, pip |
 
 ## Como rodar · How to run
